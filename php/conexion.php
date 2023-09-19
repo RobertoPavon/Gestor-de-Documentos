@@ -2,7 +2,8 @@
 
 $server = 'localhost';
 $user = 'root';
-$pass = 'barbacoa';
+// pass abbreviated for safety
+$pass = 'barbi';
 $dbname = 'econocomex';
 
 try {
